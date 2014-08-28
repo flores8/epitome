@@ -10,6 +10,11 @@
  *
  *= require_self
  *= require foundation_and_overrides
-
+ *= require animate
+ *= require bootstrap-theme
+ *= require bootstrap
+ *= require flexslider
+ *= require queries
+ *= require styles
  *= require_tree .
  */

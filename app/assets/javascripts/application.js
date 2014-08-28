@@ -14,6 +14,13 @@
 //= require jquery_ujs
 //= require foundation
 //= require turbolinks
+//= require bootstrap
+//= require jquery.flexslider
+//= require jquery.smooth-scroll
+//= require modernizr
+//= require overlay
+//= require scripts
+//= require waypoints.min
 //= require_tree .
 
 $(function(){ $(document).foundation(); });
