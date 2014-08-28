@@ -9,7 +9,6 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'rails_12factor', group: :production
-gem 'foundation-rails'
 gem 'newrelic_rpm'
 
 group :doc do

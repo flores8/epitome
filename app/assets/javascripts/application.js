@@ -12,7 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require foundation
 //= require turbolinks
 //= require bootstrap
 //= require jquery.flexslider
@@ -22,5 +21,3 @@
 //= require scripts
 //= require waypoints.min
 //= require_tree .
-
-$(function(){ $(document).foundation(); });
