@@ -15,6 +15,5 @@
  *= require bootstrap
  *= require flexslider
  *= require queries
- *= require styles
  *= require_tree .
  */
