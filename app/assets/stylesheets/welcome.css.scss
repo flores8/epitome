@@ -216,7 +216,7 @@ Hero
 .hero h1 { font-size: 40px; letter-spacing: 12px; margin: 10px; }
 .hero h1 span { 
 	display: inline-block;
-	background-image: -moz-linear-gradient(red, yellow, blue);
+	background-image: -moz-linear-gradient(linear, red, yellow, blue);
 	background-image: -webkit-gradient(linear, left center, right center, from(red), color-stop(50%, yellow), to(blue));
 	background-image: -o-linear-gradient(left, red, yellow, blue);
 	background-image: -ms-linear-gradient(left, red, yellow);
